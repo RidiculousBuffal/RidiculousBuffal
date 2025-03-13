@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![RidiculousBuffal's GitHub stats](github-readme-stats-sigma-pied-47.vercel.app/api?username=RidiculousBuffal)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RidiculousBuffal/RidiculousBuffal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
