@@ -1,6 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
+## 本月日历
+![本月日历](https://calendar-svg.ridiculousbuffal.com/calendar)
+
+
+## 统计信息
 ![GitHub 统计](https://github-readme-stats-sigma-pied-47.vercel.app/api?username=RidiculousBuffal)
+
+
+
+
+
 <!--
 **RidiculousBuffal/RidiculousBuffal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
